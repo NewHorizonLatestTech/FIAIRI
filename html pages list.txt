@@ -1,0 +1,16 @@
+1 - index.html
+2 - home.html
+3 - headoffice.html
+4 - admissions.html
+5 - contact.html
+6 - administration.html
+7 - security.html
+8 - hostels.html
+9 - cafeteria.html
+10- transport.html
+11- syllabus/courses.html
+12- affilation.html
+13- fee schedule/scholarships.html
+14- labs/libs.html
+15- religion.html
+16- co-cirricular actvities
